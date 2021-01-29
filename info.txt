@@ -1,0 +1,4 @@
+terminal:
+  - api ...npm start
+  - client ...npm start
+
