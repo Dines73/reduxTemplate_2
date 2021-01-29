@@ -17,6 +17,12 @@
       "description": "second stream description",
       "userId": "112111664393376617332",
       "id": 9
+    },
+    {
+      "title": "4.th stream",
+      "description": "description nr.4",
+      "userId": "112111664393376617332",
+      "id": 10
     }
   ]
 }
